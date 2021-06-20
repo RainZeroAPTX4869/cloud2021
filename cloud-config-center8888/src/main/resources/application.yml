@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/angenin/springcloud-config.git  #git的仓库地址
+          uri: https://github.com/RainZeroAPTX4869/springcloud-config.git  #git的仓库地址
           search-paths:   #搜索目录
             - springcloud-config
       label: master   #读取的分支
