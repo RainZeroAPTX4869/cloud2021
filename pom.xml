@@ -19,6 +19,12 @@
         <module>cloud-consumer-feign-order8001</module>
         <module>cloud-gateway-gateway8100</module>
         <module>cloud-config-center8888</module>
+        <module>cloud-config-client8899</module>
+        <module>cloud-config-client8877</module>
+        <module>cloudalibaba-provider-payment9001</module>
+        <module>cloudalibaba-provider-payment9003</module>
+        <module>cloudalibaba-config-nacos-client9100</module>
+        <module>cloudalibaba-sentinel-service9200</module>
 
     </modules>
 
